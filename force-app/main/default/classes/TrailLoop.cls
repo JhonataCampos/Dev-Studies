@@ -7,8 +7,5 @@ public class TrailLoop {
                 t.status = 'Completed';
         }
     	update allMyTasks;
-    }
-    
-   
-    
+    } 
 }
